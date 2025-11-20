@@ -1,0 +1,38 @@
+# Xcode
+build/
+DerivedData/
+*.xcworkspace
+xcuserdata/
+*.xccheckout
+*.lock
+*.moved-aside
+*.xcuserstate
+
+# Swift Package Manager
+/.build/
+Packages/
+*.xcodeproj/project.xcworkspace/
+.swiftpm/xcode/
+
+# CocoaPods (si lo usas)
+Pods/
+Podfile.lock
+
+# Carthage (si lo usas)
+Carthage/Build/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots
+fastlane/test_output
+
+# Archive files
+*.xcarchive
+
+# SwiftPM index store
+.index/
+
+# Misc
+.DS_Store
+

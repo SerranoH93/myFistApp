@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		422C05702ECEB4E0006CF491 /* .gitignore in Sources */ = {isa = PBXBuildFile; fileRef = 422C056F2ECEB4D4006CF491 /* .gitignore */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		422C05412ECEAC17006CF491 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		422C05302ECEAC16006CF491 /* MyFirstApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyFirstApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		422C05402ECEAC17006CF491 /* MyFirstAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		422C054A2ECEAC17006CF491 /* MyFirstAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		422C056F2ECEB4D4006CF491 /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -88,6 +93,7 @@
 		422C05272ECEAC16006CF491 = {
 			isa = PBXGroup;
 			children = (
+				422C056F2ECEB4D4006CF491 /* .gitignore */,
 				422C05322ECEAC16006CF491 /* MyFirstApp */,
 				422C05432ECEAC17006CF491 /* MyFirstAppTests */,
 				422C054D2ECEAC17006CF491 /* MyFirstAppUITests */,
@@ -249,6 +255,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				422C05702ECEB4E0006CF491 /* .gitignore in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
