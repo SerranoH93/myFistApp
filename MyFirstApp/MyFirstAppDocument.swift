@@ -2,7 +2,7 @@
 //  MyFirstAppDocument.swift
 //  MyFirstApp
 //
-//  Created by Alejandro Serrano Herrera on 19/11/25.
+
 //
 
 import SwiftUI
